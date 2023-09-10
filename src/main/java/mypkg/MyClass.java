@@ -30,5 +30,6 @@ public class MyClass {
 		b=sc.nextInt();
 		System.out.println("Area of the given Rectangle is : "+ob.areaRect(l, b) );
 		System.out.println("Area of the given Square is : "+ob.areaSq(10) );
+		ob.show();
 	}
 }
